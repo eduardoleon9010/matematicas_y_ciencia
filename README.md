@@ -6,8 +6,6 @@ Este repositorio contiene recursos académicos y materiales interactivos para el
 
 📂 [**Notebooks**]()  
 - Cuadernos Jupyter con explicaciones teóricas y ejemplos prácticos.  
-
-📂 [**Scripts en Python**]()
 - Implementaciones de funciones matemáticas y científicas.  
 
 📂 [**Datasets**]
@@ -16,5 +14,4 @@ Este repositorio contiene recursos académicos y materiales interactivos para el
 📂 [**Documentación**]()
 - Artículos, referencias y enlaces a material complementario.  
 
-## 🚀 Instalación y Uso
 
