@@ -14,4 +14,6 @@ Este repositorio contiene recursos académicos y materiales interactivos para el
 📂 [**Documentación**]()
 - Artículos, referencias y enlaces a material complementario.  
 
+📜 Licencia
+Este proyecto está licenciado bajo la [MIT License]().
 
