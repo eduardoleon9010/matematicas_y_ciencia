@@ -15,5 +15,5 @@ Este repositorio contiene recursos académicos y materiales interactivos para el
 - Artículos, referencias y enlaces a material complementario.  
 
 📜 Licencia
-Este proyecto está licenciado bajo la [MIT License]().
+Este proyecto está licenciado bajo la [MIT License](https://github.com/eduardoleon9010/matematicas/blob/main/Licencia_MIT.md).
 
