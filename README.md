@@ -4,7 +4,7 @@ Este repositorio contiene recursos académicos y materiales interactivos para el
 
 ## 📌 Contenido del repositorio
 
-📂 [**Notebooks**]()  
+📂 [**Cuadernos (Notebooks)**](https://github.com/eduardoleon9010/matematicas/tree/main/cuadernos(Notebooks))  
 - Cuadernos Jupyter con explicaciones teóricas y ejemplos prácticos.  
 - Implementaciones de funciones matemáticas y científicas.  
 
