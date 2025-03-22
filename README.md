@@ -8,7 +8,7 @@ Este repositorio contiene recursos académicos y materiales interactivos para el
 - Cuadernos Jupyter con explicaciones teóricas y ejemplos prácticos.  
 - Implementaciones de funciones matemáticas y científicas.  
 
-📂 [**Datasets**]()
+📂 [**Datasets**](https://github.com/eduardoleon9010/matematicas/tree/main/Conjuntos_de_datos)
 - Conjuntos de datos para análisis y experimentación.  
 
 📂 [**Documentación**]()
