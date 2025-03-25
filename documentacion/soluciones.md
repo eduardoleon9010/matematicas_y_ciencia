@@ -24,7 +24,7 @@ Cada cuaderno incluye explicaciones detalladas, código bien documentado y visua
 - **[🔢 Circuito lógico Semi-sumador](https://colab.research.google.com/drive/175bin6_7MzmI9KzdToplpwp4xRRHBLiA?usp=sharing)** 
 - **[Propiedades de las funciones seno, coseno y tangente](https://colab.research.google.com/drive/1dg5nEmLBz_bickiRj4E8sgCLtuQRG9S_?usp=sharing)**
 - **[Visualización 3D de la espiral de Fibonacci](https://colab.research.google.com/drive/1sgvTwBfXPfkpwTl9wHEw3y6AfczVvlO2?usp=sharing)**
-- **[]()** 
+- **[📌 Integral Gaussiana y sus aplicaciones en probabilidad](https://colab.research.google.com/drive/1BIIWANABQyvnJzgYvlwLfWr1UCvXeS11?usp=sharing)** 
 - **[]()** 
 - **[]()**
 - **[]()** 
