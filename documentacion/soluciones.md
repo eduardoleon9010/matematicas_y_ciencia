@@ -22,7 +22,7 @@ Cada cuaderno incluye explicaciones detalladas, código bien documentado y visua
 - **[⚡ Visualización interactiva del potencial y campo eléctrico de tres cargas](https://colab.research.google.com/drive/1dyfhP3KJcXX5mLl22hUeNj0zUEpZCI18?usp=sharing)** 
 - **[⚡ Potencial y campo eléctrico de tres cargas](https://colab.research.google.com/drive/11UMVwhWxAAbaNOjmumzuotKnALC9bDQz?usp=sharing)**
 - **[🔢 Circuito lógico Semi-sumador](https://colab.research.google.com/drive/175bin6_7MzmI9KzdToplpwp4xRRHBLiA?usp=sharing)** 
-- **[]()**
+- **[Propiedades de las funciones seno, coseno y tangente](https://colab.research.google.com/drive/1dg5nEmLBz_bickiRj4E8sgCLtuQRG9S_?usp=sharing)**
 - **[]()**
 - **[]()** 
 - **[]()** 
