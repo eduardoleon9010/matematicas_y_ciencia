@@ -18,7 +18,7 @@ Cada cuaderno incluye explicaciones detalladas, código bien documentado y visua
 - **[Oscilador Armónico Cuántico](https://colab.research.google.com/drive/1jSeayoTipEarTcrOXal5LzdKeZRTjRX2?usp=sharing)** 
 - **[Curvas polares](https://colab.research.google.com/drive/15a0LteszJ8acEjmNAi1e1vzTJWHmlqmE?usp=sharing)**
 - **[La naturaleza electromagnética de la Luz](https://colab.research.google.com/drive/1Btca4HW4A-BMrDLQgfbJ8Uw-aElsL-CN?usp=sharing)**
-- **[]()** 
+- **[⚡ Visualización interactiva del campo eléctrico: Monopolo, dipolo y cuádruplo](https://colab.research.google.com/drive/1_UqNPabrjplJCVKZj50H1eZvpFhQRlw6?usp=sharing)** 
 - **[]()** 
 - **[]()**
 - **[]()** 
