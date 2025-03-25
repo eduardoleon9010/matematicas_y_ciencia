@@ -25,7 +25,7 @@ Cada cuaderno incluye explicaciones detalladas, código bien documentado y visua
 - **[Propiedades de las funciones seno, coseno y tangente](https://colab.research.google.com/drive/1dg5nEmLBz_bickiRj4E8sgCLtuQRG9S_?usp=sharing)**
 - **[Visualización 3D de la espiral de Fibonacci](https://colab.research.google.com/drive/1sgvTwBfXPfkpwTl9wHEw3y6AfczVvlO2?usp=sharing)**
 - **[📌 Integral Gaussiana y sus aplicaciones en probabilidad](https://colab.research.google.com/drive/1BIIWANABQyvnJzgYvlwLfWr1UCvXeS11?usp=sharing)** 
-- **[]()** 
+- **[📖 Uso de letras Griegas en matemáticas y su representación visual](https://colab.research.google.com/drive/1VvNr3ribj2UIFgqV-mojI9z63LTTzA2I?usp=sharing)** 
 - **[]()**
 - **[]()** 
 - **[]()**
