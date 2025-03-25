@@ -14,10 +14,32 @@ Cada cuaderno incluye explicaciones detalladas, código bien documentado y visua
 - **[Máquina de Atwood](https://colab.research.google.com/drive/1gxpOhNMYvagw5_xxYNVri6sPQeZS1HGA?usp=sharing)**
 - **[Curvas paramatricas](https://colab.research.google.com/drive/18piybQ9RD9AfII2KT_946k7QlpFYW99F?usp=sharing)**
 - **[Comparación entre π^e   y  e^π](https://colab.research.google.com/drive/1BeN7f64ycb7ERwsQyAwTb2JvRrae_i_W?usp=sharing)** 
+- **[Binomio cuadrado perfecto](https://colab.research.google.com/drive/1W0AkGsMQvHS83CjKUcibwB1iQU_ZKixK?usp=sharing)** 
+- **[]()** 
+- **[]()**
+- **[]()**
 - **[]()** 
 - **[]()** 
+- **[]()**
 - **[]()** 
-
+- **[]()**
+- **[]()**
+- **[]()** 
+- **[]()** 
+- **[]()**
+- **[]()** 
+- **[]()**
+- **[]()**
+- **[]()** 
+- **[]()** 
+- **[]()**
+- **[]()** 
+- **[]()**
+- **[]()**
+- **[]()** 
+- **[]()** 
+- **[]()**
+___
 ## 🎯 ¿Cómo usar estos cuadernos?  
 1️⃣ **Haz clic en el enlace** del cuaderno que deseas explorar.  
 2️⃣ **Ejecuta las celdas de código** para generar visualizaciones interactivas.  
