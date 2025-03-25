@@ -11,7 +11,7 @@ Este repositorio contiene recursos académicos y materiales interactivos para el
 📂 [**Datasets**](https://github.com/eduardoleon9010/matematicas/tree/main/Conjuntos_de_datos)
 - Conjuntos de datos para análisis y experimentación.  
 
-📂 [**Documentación**]()
+📂 [**Documentación**](https://github.com/eduardoleon9010/matematicas_y_ciencia/blob/main/documentacion/soluciones.md)
 - Artículos, referencias y enlaces a material complementario.  
 
 📜 Licencia
