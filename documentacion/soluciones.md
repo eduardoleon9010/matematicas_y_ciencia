@@ -13,7 +13,7 @@ Cada cuaderno incluye explicaciones detalladas, código bien documentado y visua
 - 📊 **[Sistema de Coordenadas Curvilíneas](https://colab.research.google.com/drive/1gsgRnXFv5slqyGZnq9LO7mXZeXlZcFRH?usp=sharing)**
 - **[Máquina de Atwood](https://colab.research.google.com/drive/1gxpOhNMYvagw5_xxYNVri6sPQeZS1HGA?usp=sharing)**
 - **[Curvas paramatricas](https://colab.research.google.com/drive/18piybQ9RD9AfII2KT_946k7QlpFYW99F?usp=sharing)**
-- **[]()** 
+- **[Comparación entre  π^e  y  e^π](https://colab.research.google.com/drive/1BeN7f64ycb7ERwsQyAwTb2JvRrae_i_W?usp=sharing)** 
 - **[]()** 
 - **[]()** 
 - **[]()** 
