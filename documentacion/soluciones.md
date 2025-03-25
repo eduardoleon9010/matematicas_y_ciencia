@@ -10,7 +10,13 @@ Cada cuaderno incluye explicaciones detalladas, código bien documentado y visua
 - 📏 **[Fórmula de Bhaskara](https://colab.research.google.com/drive/1i0sphVxFsYY3c2uf9hSCV5jLrWypAeQr?usp=sharing)**  
 - ✏️ **[Fórmula de Bhaskara 1](https://colab.research.google.com/drive/1wHJhco9AbCYRL_1yN0LjxhrVm7my_6gu?usp=sharing)**  
 - 🔄 **[Cinta de Möbius y Botella de Klein](https://colab.research.google.com/drive/1Zc9NQu15M7PnOQ0D7bQmcx04F_damHfp?usp=sharing)**  
-- 📊 **[Sistema de Coordenadas Curvilíneas](https://colab.research.google.com/drive/1gsgRnXFv5slqyGZnq9LO7mXZeXlZcFRH?usp=sharing)**  
+- 📊 **[Sistema de Coordenadas Curvilíneas](https://colab.research.google.com/drive/1gsgRnXFv5slqyGZnq9LO7mXZeXlZcFRH?usp=sharing)**
+- **[Máquina de Atwood](https://colab.research.google.com/drive/1gxpOhNMYvagw5_xxYNVri6sPQeZS1HGA?usp=sharing)**
+- **[]()**
+- **[]()** 
+- **[]()** 
+- **[]()** 
+- **[]()** 
 
 ## 🎯 ¿Cómo usar estos cuadernos?  
 1️⃣ **Haz clic en el enlace** del cuaderno que deseas explorar.  
