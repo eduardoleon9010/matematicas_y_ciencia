@@ -5,7 +5,7 @@ Bienvenido a esta colección de **notebooks interactivos**, donde podrás **expl
 
 Cada cuaderno incluye explicaciones detalladas, código bien documentado y visualizaciones interactivas con **Plotly y otras bibliotecas**. Puedes ejecutarlos directamente en Colab y modificar los parámetros para observar diferentes efectos. 🚀  
 
-## 🔗 Accede a los motebooks:  
+## 🔗 Accede a los notebooks:  
 - 📐 **[Triángulo Equilátero](https://colab.research.google.com/drive/1V2l_wsTrMvoHrcVP6qz1lL8Hp4pWPyX3?usp=sharing)**  
 - 📏 **[Fórmula de Bhaskara](https://colab.research.google.com/drive/1i0sphVxFsYY3c2uf9hSCV5jLrWypAeQr?usp=sharing)**  
 - ✏️ **[Fórmula de Bhaskara 1](https://colab.research.google.com/drive/1wHJhco9AbCYRL_1yN0LjxhrVm7my_6gu?usp=sharing)**  
