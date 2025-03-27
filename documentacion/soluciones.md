@@ -36,7 +36,7 @@ Cada cuaderno incluye explicaciones detalladas, código bien documentado y visua
 - **[📈 Comparación de curvas Polares y Cartesianas](https://colab.research.google.com/drive/1dphCNs9LnNRvzzVuynkDANxmPw6O7vib?usp=sharing)** 
 - **[Análisis de la función Coseno en coordenadas Polares](https://colab.research.google.com/drive/1mWiPDMjLk4ng0KozAide4pHWrYvUcgZY?usp=sharing)**
 - **[📘 Relación entre el círculo unitario y la función Seno](https://colab.research.google.com/drive/1Pubti5KSMO7-r6YuLMZ1bmJUNZnw5cwQ?usp=sharing)**
-- **[]()** 
+- **[Relación entre el círculo unitario y la función Coseno](https://colab.research.google.com/drive/1HENC9LsOa2todueQ0gqjR-avFeNRBmII?usp=sharing)** 
 - **[]()** 
 - **[]()**
 - **[]()** 
