@@ -30,7 +30,7 @@ Cada cuaderno incluye explicaciones detalladas, código bien documentado y visua
 - **[Animación de la Convergencia de una Serie Geométrica](https://colab.research.google.com/drive/1NBJrQY4PIS4szmu6zY-q2CtrgIolcDVh?usp=sharing)** 
 - **[Visualización del flujo de un campo vectorial sobre diferentes superficies](https://colab.research.google.com/drive/1D73fwbkId5HdN6w3q0rHNSn0EgHZoaJW?usp=sharing)**
 - **[Explorando los Sistemas de Coordenadas: Cartesianas y Polares 🧭📊](https://colab.research.google.com/drive/1lngoJBKMo1SQB8ob1J3Giy-ymAyAnbNp?usp=sharing)**
-- **[]()** 
+- **[📊 Visualización interactiva de la Serie de Fourier](https://colab.research.google.com/drive/1neJ8piABXLw9wcuzDx18jnmf8uRd676a?usp=sharing)** 
 - **[]()** 
 - **[]()**
 - **[]()** 
