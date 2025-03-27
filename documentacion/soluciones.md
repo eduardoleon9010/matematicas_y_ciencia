@@ -32,6 +32,18 @@ Cada cuaderno incluye explicaciones detalladas, código bien documentado y visua
 - **[Explorando los Sistemas de Coordenadas: Cartesianas y Polares 🧭📊](https://colab.research.google.com/drive/1lngoJBKMo1SQB8ob1J3Giy-ymAyAnbNp?usp=sharing)**
 - **[📊 Visualización interactiva de la Serie de Fourier](https://colab.research.google.com/drive/1neJ8piABXLw9wcuzDx18jnmf8uRd676a?usp=sharing)** 
 - **[📘 Aplicación de la transformada de Laplace en sistemas de ecuaciones diferenciales](https://colab.research.google.com/drive/1PaPC5IZVSKNIsLCv3SbnSvCQtoA4enQT?usp=sharing)** 
+- **[📊 Suma de Riemann e Integral Definida](https://colab.research.google.com/drive/1RvFAogG5qAp3sYDibCqW0R6vfagFrBrb?usp=sharing)**
+- **[]()** 
+- **[]()**
+- **[]()**
+- **[]()** 
+- **[]()** 
+- **[]()**
+- **[]()** 
+- **[]()**
+- **[]()**
+- **[]()** 
+- **[]()** 
 - **[]()**
 - **[]()** 
 - **[]()**
