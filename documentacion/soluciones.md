@@ -37,7 +37,7 @@ Cada cuaderno incluye explicaciones detalladas, código bien documentado y visua
 - **[Análisis de la función Coseno en coordenadas Polares](https://colab.research.google.com/drive/1mWiPDMjLk4ng0KozAide4pHWrYvUcgZY?usp=sharing)**
 - **[📘 Relación entre el círculo unitario y la función Seno](https://colab.research.google.com/drive/1Pubti5KSMO7-r6YuLMZ1bmJUNZnw5cwQ?usp=sharing)**
 - **[Relación entre el círculo unitario y la función Coseno](https://colab.research.google.com/drive/1HENC9LsOa2todueQ0gqjR-avFeNRBmII?usp=sharing)** 
-- **[]()** 
+- **[Relación entre la suma de números impares y los cuadrados perfectos](https://colab.research.google.com/drive/1X6sO6dncPWWI00HJRjy5ooFrslIyktmm?usp=sharing)** 
 - **[]()**
 - **[]()** 
 - **[]()**
