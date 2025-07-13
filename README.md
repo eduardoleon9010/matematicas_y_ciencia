@@ -7,9 +7,7 @@
   Recursos académicos e interactivos para el aprendizaje de <strong>matemáticas, estadística y ciencia</strong> utilizando <strong>Python</strong>.
 </p>
 
----
-
-## 📌 Contenido del repositorio
+## Contenido del repositorio
 
 <section style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
@@ -36,13 +34,11 @@
 
 </section>
 
-
 ## 📜 Licencia
 
 Este proyecto está licenciado bajo la [MIT License](https://github.com/eduardoleon9010/matematicas/blob/main/Licencia_MIT.md).  
 Puedes utilizar, modificar y distribuir el contenido respetando los términos establecidos.
 
----
 
 <p align="center" style="font-size: 0.9em; color: #999999;">
   © 2025 · Repositorio mantenido por <strong> Ing. Leon, E.</strong>
