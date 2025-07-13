@@ -1,7 +1,10 @@
-<!-- Encabezado principal -->
-<h1 align="center" style="color:#2b6cb0; font-size:2em;">
-  Matemáticas y ciencia con Python
-</h1>
+<!-- Encabezado con imagen -->
+<div style="text-align:center; padding: 40px 20px; background-color:#f0f4f8;">
+  <img src="https://raw.githubusercontent.com/eduardoleon9010/matematicas/main/img/banner.png" alt="Banner Matemáticas y Ciencia con Python" style="max-width: 100%; height: auto; border-radius: 12px;">
+  <h1 style="color:#2b6cb0; font-size:2.5em; margin-top: 20px; animation: float 3s ease-in-out infinite;">
+    Matemáticas y ciencia con Python
+  </h1>
+</div>
 
 <p align="center">
   Recursos académicos e interactivos para el aprendizaje de <strong>matemáticas, estadística y ciencia</strong> utilizando <strong>Python</strong>.
@@ -45,5 +48,14 @@
 <p align="center" style="font-size: 0.9em; color: #999999; margin-top: 40px;">
   © 2025 · Repositorio mantenido por <strong>Ing. Leon, E.</strong>
 </p>
+
+<style>
+@keyframes float {
+  0%   { transform: translateY(0px); }
+  50%  { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+</style>
+
 
 
