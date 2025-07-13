@@ -19,7 +19,7 @@ Referencias, soluciones guiadas y material complementario.
 
 El contenido de este repositorio también está disponible en una versión visual con diseño moderno y navegación interactiva mediante GitHub Pages.
 
-Acceso: [https://eduardoleon9010.github.io/python_en_accion/](https://eduardoleon9010.github.io/python_en_accion/)
+[Acceso dando clic aqui](https://eduardoleon9010.github.io/python_en_accion/)
 
 ## Tecnologías utilizadas
 
